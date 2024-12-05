@@ -1,6 +1,8 @@
 # 🏖️ KyoungJun Min
-- Evolving software engineer
 - Software engineer constantly studies high performance and productivity
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kjmin-dev-kr)
+[![blog](https://img.shields.io/badge/Blog-FFA116?style=for-the-badge&logo=Tistory&logoColor=black)](https://leichtjoon.tistory.com/)
 
 ## 🔧 Skills
 ![ts](https://img.shields.io/badge/typescript-ED8B00?style=for-the-badge&logo=typescript&logoColor=white)
@@ -9,6 +11,7 @@
 ![reactnative](https://img.shields.io/badge/react%20native-149ECA?style=for-the-badge&logo=react&logoColor=white)
 ![electron](https://img.shields.io/badge/electron-9feaf9?style=for-the-badge&logo=electron&logoColor=black)
 ![wasm](https://img.shields.io/badge/webassembly-bdaedb?style=for-the-badge&logo=webassembly&logoColor=white)
+
 ## 💻 Work Experiences
 ![deepbio](https://img.shields.io/badge/Deep%20Bio%20Inc%202022.12~2024.12-1ED25F.svg?style=for-the-badge&logoColor=white)
 <br>
