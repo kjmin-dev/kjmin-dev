@@ -10,6 +10,6 @@
 ![electron](https://img.shields.io/badge/electron-9feaf9?style=for-the-badge&logo=electron&logoColor=black)
 ![wasm](https://img.shields.io/badge/webassembly-bdaedb?style=for-the-badge&logo=webassembly&logoColor=white)
 ## 💻 Work Experiences
-![deepbio](https://img.shields.io/badge/Deep%20Bio%202022.12~2024.12-1ED25F.svg?style=for-the-badge&logoColor=white)
+![deepbio](https://img.shields.io/badge/Deep%20Bio%20Inc%202022.12~2024.12-1ED25F.svg?style=for-the-badge&logoColor=white)
 <br>
 ![covision](https://img.shields.io/badge/-Covision%20Corp%202020.12~2022.12-%230097f2.svg?style=for-the-badge)
