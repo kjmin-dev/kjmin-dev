@@ -1,5 +1,5 @@
 # 🏖️ KyoungJun Min
-- Software engineer constantly studies high performance and productivity
+- Software Engineer focused on engineering efficiency and performance optimization
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kjmin-dev-kr)
 [![blog](https://img.shields.io/badge/Blog-FFA116?style=for-the-badge&logo=Tistory&logoColor=black)](https://leichtjoon.tistory.com/)
