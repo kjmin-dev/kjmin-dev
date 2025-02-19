@@ -1,5 +1,5 @@
 # 🏖️ KyoungJun Min
-- Software Engineer focused on engineering efficiency and performance optimization
+- Software Engineer with a focus on engineering efficiency and performance optimization
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kjmin-dev-kr)
 [![blog](https://img.shields.io/badge/Blog-FFA116?style=for-the-badge&logo=Tistory&logoColor=black)](https://leichtjoon.tistory.com/)
@@ -13,6 +13,8 @@
 ![wasm](https://img.shields.io/badge/webassembly-bdaedb?style=for-the-badge&logo=webassembly&logoColor=white)
 
 ## 💻 Work Experiences
-![deepbio](https://img.shields.io/badge/Deep%20Bio%20Inc%202022.12~2024.12-1ED25F.svg?style=for-the-badge&logoColor=white)
+![Hudson AI](https://img.shields.io/badge/Hudson%20AI%202024.12--Current-444444.svg?style=for-the-badge)
 <br>
-![covision](https://img.shields.io/badge/-Covision%20Corp%202020.12~2022.12-%230097f2.svg?style=for-the-badge)
+![deepbio](https://img.shields.io/badge/Deep%20Bio%20Inc%202022.12--2024.12-1ED25F.svg?style=for-the-badge)
+<br>
+![covision](https://img.shields.io/badge/-Covision%20Corp%202020.12--2022.12-%230097f2.svg?style=for-the-badge)
