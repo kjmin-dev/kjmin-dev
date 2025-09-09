@@ -6,22 +6,25 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kjmin.kr@gmail.com)
 
 ## 🔧 Skills
+#### Language
+[![TS](https://img.shields.io/badge/typescript-ED8B00?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)](#)
 
 #### Frontend
-![TS](https://img.shields.io/badge/typescript-ED8B00?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react.js-149ECA?style=for-the-badge&logo=react&logoColor=white)
-![ReactNative](https://img.shields.io/badge/react%20native-149ECA?style=for-the-badge&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)
-![Electron](https://img.shields.io/badge/electron-9feaf9?style=for-the-badge&logo=electron&logoColor=black)
-![Wasm](https://img.shields.io/badge/webassembly-bdaedb?style=for-the-badge&logo=webassembly&logoColor=white)
+[![React](https://img.shields.io/badge/react.js-149ECA?style=for-the-badge&logo=react&logoColor=white)](#)
+[![ReactNative](https://img.shields.io/badge/react%20native-149ECA?style=for-the-badge&logo=react&logoColor=white)](#)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)](#)
+[![Electron](https://img.shields.io/badge/electron-9feaf9?style=for-the-badge&logo=electron&logoColor=black)](#)
+[![Wasm](https://img.shields.io/badge/webassembly-bdaedb?style=for-the-badge&logo=webassembly&logoColor=white)](#)
 #### Backend
-![Node](https://img.shields.io/badge/node.js-darkgreen?style=for-the-badge&logo=node.js&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+[![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](#)
+[![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)](#)
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](#)
 
 ## 💻 Work Experiences
-![Hudson AI](https://img.shields.io/badge/Hudson%20AI%202024.12--Current-444444.svg?style=for-the-badge)
+[![Hudson AI](https://img.shields.io/badge/Hudson%20AI%202024.12--Current-444444.svg?style=for-the-badge)](#)
 <br>
-![deepbio](https://img.shields.io/badge/Deep%20Bio%20Inc%202022.12--2024.12-1ED25F.svg?style=for-the-badge)
+[![deep bio](https://img.shields.io/badge/Deep%20Bio%20Inc%202022.12--2024.12-1ED25F.svg?style=for-the-badge)](#)
 <br>
-![covision](https://img.shields.io/badge/-Covision%20Corp%202020.12--2022.12-%230097f2.svg?style=for-the-badge)
+[![Covision](https://img.shields.io/badge/-Covision%20Corp%202020.12--2022.12-%230097f2.svg?style=for-the-badge)](#)
